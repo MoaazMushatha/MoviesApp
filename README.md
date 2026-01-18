@@ -1,14 +1,15 @@
 # MoviesApp 🎬
 
-MoviesApp is an Android application built using Kotlin that allows users to browse movies and view detailed information about each film.  
-The project focuses on clean UI, structured architecture, and modern Android development practices.
+MoviesApp is an Android application built using **Kotlin** and **Jetpack Compose** that allows users to browse movies and view detailed information about each film.  
+The project focuses on clean UI, modern Compose patterns, and reusable composable components.
 
-It serves as a learning project and a solid starting point for building movie-based Android applications.
+It serves as a learning project and a solid Compose-based starting point for building movie-related Android applications.
 
 ---
 
 ## Features
 
+- Jetpack Compose–based UI
 - Browse a list of movies
 - View movie details (title, poster, rating, release date, description)
 - Clean and intuitive user interface
@@ -19,17 +20,18 @@ It serves as a learning project and a solid starting point for building movie-ba
 
 ## Tech Stack
 
-- Kotlin
-- Android SDK
-- Gradle
+- Kotlin  
+- Jetpack Compose  
+- Android SDK  
+- Gradle  
 - Android Studio
 
 ---
 
 ## Scope
 
-This project focuses on the Android application layer.  
-It may use mock data or public APIs and does not include complex backend logic.
+This project is UI-focused and built with Jetpack Compose.  
+It may use mock data or public APIs; no complex backend logic is included.
 
 ---
 
