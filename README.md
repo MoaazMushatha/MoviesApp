@@ -44,11 +44,13 @@ It may use mock data or public APIs and does not include complex backend logic.
 
 ## Screenshots
 
-![Home Screen](https://github.com/user-attachments/assets/PUT_IMAGE_ID_HERE)
+![SplashScreen](https://github.com/user-attachments/assets/ef225bdc-868c-44f2-a3f6-9cbe99450634)
 
-![Movie Details](https://github.com/user-attachments/assets/PUT_IMAGE_ID_HERE)
+![MoviesScreen](https://github.com/user-attachments/assets/fd76c662-3820-434b-a092-5232ab8c0df2)
 
-![Search Screen](https://github.com/user-attachments/assets/PUT_IMAGE_ID_HERE)
+![MovieDetailsScreen](https://github.com/user-attachments/assets/dca10e37-e075-4713-898e-5e0b71ac6ff2)
+
+![LogInScreen](https://github.com/user-attachments/assets/da33a1df-24b1-4dc6-af11-7f51ad127d88)
 
 ---
 
